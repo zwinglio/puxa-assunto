@@ -1,0 +1,29 @@
+{
+  "categories": [
+    {
+      "category_name": "Geral",
+      "questions": [
+        "Qual é o seu filme favorito?",
+        "Qual é o seu livro favorito?",
+        "Qual é sua música favorita?",
+        "Qual é sua comida favorita?",
+        "Qual é sua cor favorita?",
+        "Qual é seu animal favorito?",
+        "Qual é seu lugar favorito para visitar?",
+        "Qual é sua atividade favorita?",
+        "Qual é sua memória favorita?",
+        "Qual é seu sonho?",
+        "Qual é sua maior esperança?",
+        "Qual é seu maior medo?",
+        "Qual é sua maior força?",
+        "Qual é sua maior fraqueza?",
+        "Qual é seu maior arrependimento?",
+        "Qual é a coisa mais importante para você na vida?",
+        "Qual é sua maior conquista?",
+        "Qual é sua maior inspiração?",
+        "Qual é sua maior lição de vida?",
+        "Qual é a coisa mais importante que você quer que as pessoas saibam sobre você?"
+      ]
+    }
+  ]
+}
