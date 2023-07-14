@@ -24,6 +24,14 @@
         "Qual é sua maior lição de vida?",
         "Qual é a coisa mais importante que você quer que as pessoas saibam sobre você?"
       ]
+    },
+    {
+      "category_name": "Picante",
+      "questions": [
+        "Qual a última vez que você beijou alguém?",
+        "Qual a última vez que você transou?",
+        "Qual o maior tempo que você passou sem pegar ninguém?"
+      ]
     }
   ]
 }
