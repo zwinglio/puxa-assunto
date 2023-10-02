@@ -1,26 +1,31 @@
 <template>
   <div class="min-w-full min-h-screen">
     <div class="flex flex-col min-h-screen justify-between">
-
       <div class="flex flex-row justify-center p-4">
         <div class="flex-flex-col justify-center align-middle text-center">
-          <h1 class="text-4xl lg:text-6xl font-bold text-white mt-4">Puxa Assunto 🗣️</h1>
-          <p class="text-gray-400 text-sm mt-3">Aplicativo para puxar conversa quanto faltar assunto...</p>
+          <h1 class="text-4xl lg:text-6xl font-bold text-white mt-4">
+            Puxa Assunto 🗣️
+          </h1>
+          <p class="text-gray-400 text-sm mt-3">
+            Aplicativo para puxar conversa quanto faltar assunto...
+          </p>
         </div>
       </div>
-      
+
       <div class="flex justify-center align-middle px-5 py-10 xl:w-1/2 m-auto">
-        <div class="p-10 border-8 border-cyan-500 bg-white rounded-lg text-center  w-full">
+        <div
+          class="p-10 border-8 border-cyan-500 bg-white rounded-lg text-center w-full"
+        >
           <h2 class="text-3xl font-bold">{{ frase }}</h2>
           <p class="text-gray-400 text-xs mt-4">Versão 1.0.5 por: Zwinglio</p>
         </div>
       </div>
-      
+
       <div class="flex justify-center py-4">
         <div class="flex flex-col w-2/3 xl:w-1/2">
           <button
             @click="changeFrase()"
-            class="bg-amber-500 hover:bg-amber-400 rounded-lg text-orange-950 font-bold py-8 w-full mb-10 text-lg uppercase shadow-amber-500 shadow-[0px_0px_150px] hover:shadow-[0px_0px_100px] hover:shadow-yellow-500 transition-all	"
+            class="bg-amber-500 hover:bg-amber-400 rounded-lg text-orange-950 font-bold py-8 w-full mb-10 text-lg uppercase shadow-amber-500 shadow-[0px_0px_150px] hover:shadow-[0px_0px_100px] hover:shadow-yellow-500 transition-all"
           >
             Puxar assunto
           </button>
